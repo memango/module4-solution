@@ -23,7 +23,7 @@
     <meta name="viewport" content="width=device-width">
     
     
-    <title>fullstack-course4/index.html at master · jhu-ep-coursera/fullstack-course4</title>
+    <title>fullstack-course4/script.js at master · jhu-ep-coursera/fullstack-course4</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -43,7 +43,7 @@
       <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
     <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
     <link rel="assets" href="https://assets-cdn.github.com/">
-    <link rel="web-socket" href="wss://live.github.com/_sockets/MTg0MTg4ODM6ZTU2MjljYjVmYjhkMmJkN2M2ZDI2OWE0YTgxZDE5NWY6YzlmMWM1ZDVkZjQwNTljNWQ4Njk4ZGUzOWI4ZmRiY2FmZmYyNGFiMDBjMDg3YWJkN2QxOTUwMWUwNDc2ZmI1MA==--ef7876af92c9aa26b7d19c65fdd2f9066e8c8a5e">
+    <link rel="web-socket" href="wss://live.github.com/_sockets/MTg0MTg4ODM6ZTU2MjljYjVmYjhkMmJkN2M2ZDI2OWE0YTgxZDE5NWY6ZjcyMmY0MmE4YmU2Mjc4MjQ0ODAzMTI2NzZlYTMzZTgzZWVhNTRkMDY2ODA4NjUzMzc5MDM2N2NiNDQ4MTRhMQ==--f14cc66fe414486ff475333c1097cbee328e0c80">
     <meta name="pjax-timeout" content="1000">
     <link rel="sudo-modal" href="/sessions/sudo_modal">
 
@@ -55,7 +55,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="5D4AF780:3A82:160B3622:574EEE89" name="octolytics-dimension-request_id" /><meta content="18418883" name="octolytics-actor-id" /><meta content="memango" name="octolytics-actor-login" /><meta content="a140b2f131874de75188c8be2e2737f170084b6e430a6af9cf3536b8dfa39979" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="5D4AF780:3A82:160B3981:574EEE8D" name="octolytics-dimension-request_id" /><meta content="18418883" name="octolytics-actor-id" /><meta content="memango" name="octolytics-actor-login" /><meta content="a140b2f131874de75188c8be2e2737f170084b6e430a6af9cf3536b8dfa39979" name="octolytics-actor-hash" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -68,7 +68,7 @@
     <meta name="user-login" content="memango">
 
         <meta name="expected-hostname" content="github.com">
-      <meta name="js-proxy-site-detection-payload" content="MGM5OTA5ZTQzMmQ4ODZiZmU0MTUxZWY5NDQ0YzI3ZmI4ZWI5YWNjMmYxMmVkNzVhNDc0NWM2MDllMTZiNDg5Znx7InJlbW90ZV9hZGRyZXNzIjoiOTMuNzQuMjQ3LjEyOCIsInJlcXVlc3RfaWQiOiI1RDRBRjc4MDozQTgyOjE2MEIzNjIyOjU3NEVFRTg5IiwidGltZXN0YW1wIjoxNDY0NzkwNjY5fQ==">
+      <meta name="js-proxy-site-detection-payload" content="YzkzYjY0YjU3YTc0MTQ3Mzk0NzZlMzAxYmU3ZjM2YjE0OGRhMGIxNGI4MDllNWRmY2VjNzExMDVjNTc3ZDg3N3x7InJlbW90ZV9hZGRyZXNzIjoiOTMuNzQuMjQ3LjEyOCIsInJlcXVlc3RfaWQiOiI1RDRBRjc4MDozQTgyOjE2MEIzOTgxOjU3NEVFRThEIiwidGltZXN0YW1wIjoxNDY0NzkwNjczfQ==">
 
 
       <link rel="mask-icon" href="https://assets-cdn.github.com/pinned-octocat.svg" color="#4078c0">
@@ -88,7 +88,7 @@
   <link href="https://github.com/jhu-ep-coursera/fullstack-course4/commits/master.atom" rel="alternate" title="Recent Commits to fullstack-course4:master" type="application/atom+xml">
 
 
-      <link rel="canonical" href="https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/Assignments/version2/module4-solution-starter/easier/index.html" data-pjax-transient>
+      <link rel="canonical" href="https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/Assignments/version2/module4-solution-starter/easier/script.js" data-pjax-transient>
   </head>
 
 
@@ -228,7 +228,7 @@
             Settings
           </a>
 
-          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="073d1366e1cd44136f5464aa6ad29b700a8872d5" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ZDj/6PLPJhm14kw2Fb5YFJBQPUQHYLLW4FqFIsk76bEClmnzKg91kNnqEsnA6jOeCs/sg8lG++2M+3NvZ6OQ5Q==" /></div>
+          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="073d1366e1cd44136f5464aa6ad29b700a8872d5" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="uO1NZ2fFO390pD5Z7GmyPsT46xd2yhKCd8bAwZe4AnLrmFzW7QBG6gMYhVjlGFyeKSB//s+YorxLpf6qFOD8mg==" /></div>
             <button class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
               Sign out
             </button>
@@ -265,7 +265,7 @@
 <ul class="pagehead-actions">
 
   <li>
-        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="073d1366e1cd44136f5464aa6ad29b700a8872d5" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="K/EXET+GVQ1hOSboS0dLYq0k3yI/aG2o6p1BkNsOZ8WubZi5NPpVHUVRtNoqUXMyoPttQw5iPQV0M6srZL17JA==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="51732606" />
+        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="073d1366e1cd44136f5464aa6ad29b700a8872d5" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="eiCFqWFMqBywxRUmU3oCNHAd3sACK+wLa50NqM9ycKsiF5V7dZvvYdGzJHM5M4lyJCkcE8RyE4JnrFGU1Cyx2Q==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="51732606" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/jhu-ep-coursera/fullstack-course4/subscription"
@@ -340,7 +340,7 @@
     
   <div class="js-toggler-container js-social-container starring-container ">
 
-    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/jhu-ep-coursera/fullstack-course4/unstar" class="starred" data-form-nonce="073d1366e1cd44136f5464aa6ad29b700a8872d5" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="4PySuldmanveWqUz1ZIeXK6tx41re4XEFscy6LXmVOqLJ272IPDgMplj1JPhduTg/ymMLR5GhmxWI8DZJ5/QoQ==" /></div>
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/jhu-ep-coursera/fullstack-course4/unstar" class="starred" data-form-nonce="073d1366e1cd44136f5464aa6ad29b700a8872d5" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="qccV7laKOSHoYHPW8ZizTl6JBq/+Wvl/lwapCSjaJAISYxZC+o3SqxkrX5xfpHvHni/xSgNp8gPdQGuMRSq00g==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Unstar this repository" title="Unstar jhu-ep-coursera/fullstack-course4"
@@ -352,7 +352,7 @@
           209
         </a>
 </form>
-    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/jhu-ep-coursera/fullstack-course4/star" class="unstarred" data-form-nonce="073d1366e1cd44136f5464aa6ad29b700a8872d5" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="goEXuR8n4/B8KwNEDP7CoTwBCHbkrUagY824CE4A88HqthaYVqkSUjfL5mRNAznNs6b0hUGtttI227KEyKfk7w==" /></div>
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/jhu-ep-coursera/fullstack-course4/star" class="unstarred" data-form-nonce="073d1366e1cd44136f5464aa6ad29b700a8872d5" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="TKJ3EXYa8kkZLuzbMtvL3TDGvUea4n3SPIulzdvuGKS20t9cYDlXVFrf29S9Ifh0pqiUTf7p5hN2VmDRZTYxsA==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Star this repository" title="Star jhu-ep-coursera/fullstack-course4"
@@ -368,7 +368,7 @@
   </li>
 
   <li>
-          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/jhu-ep-coursera/fullstack-course4/fork" class="btn-with-count" data-form-nonce="073d1366e1cd44136f5464aa6ad29b700a8872d5" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="pS3DuUbxsSJzdwA8AmtE5Sgdg2B5/CdhU/NA0oMuj7KfHm11nmdYZfygE+GxDja7cGnP6geHRJYmEA/k1KuzxA==" /></div>
+          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/jhu-ep-coursera/fullstack-course4/fork" class="btn-with-count" data-form-nonce="073d1366e1cd44136f5464aa6ad29b700a8872d5" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="pW1IabBDkBK0rThhedxI2UMxt2TlE+uXmBA3tuhTYNOQbd2oBqAZkzxMJP/ZwYmWWyFeDPuv6k3mpMrPfm78Vw==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -449,9 +449,9 @@
 
     
 
-<a href="/jhu-ep-coursera/fullstack-course4/blob/c675c1a2224f9ac92249a6ce2c36df84f5dd8ec2/Assignments/version2/module4-solution-starter/easier/index.html" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/jhu-ep-coursera/fullstack-course4/blob/c675c1a2224f9ac92249a6ce2c36df84f5dd8ec2/Assignments/version2/module4-solution-starter/easier/script.js" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:a144d5cbf9fdb94cfb567b43e40ce1fc -->
+<!-- blob contrib key: blob_contributors:v21:90a43760435546103bfb06bf994bba41 -->
 
 <div class="file-navigation js-zeroclipboard-container">
   
@@ -493,7 +493,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/jhu-ep-coursera/fullstack-course4/blob/gh-pages/Assignments/version2/module4-solution-starter/easier/index.html"
+               href="/jhu-ep-coursera/fullstack-course4/blob/gh-pages/Assignments/version2/module4-solution-starter/easier/script.js"
                data-name="gh-pages"
                data-skip-pjax="true"
                rel="nofollow">
@@ -503,7 +503,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/jhu-ep-coursera/fullstack-course4/blob/jasonwr-lecture22-before-fix/Assignments/version2/module4-solution-starter/easier/index.html"
+               href="/jhu-ep-coursera/fullstack-course4/blob/jasonwr-lecture22-before-fix/Assignments/version2/module4-solution-starter/easier/script.js"
                data-name="jasonwr-lecture22-before-fix"
                data-skip-pjax="true"
                rel="nofollow">
@@ -513,7 +513,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/jhu-ep-coursera/fullstack-course4/blob/master/Assignments/version2/module4-solution-starter/easier/index.html"
+               href="/jhu-ep-coursera/fullstack-course4/blob/master/Assignments/version2/module4-solution-starter/easier/script.js"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -550,43 +550,66 @@
     <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
   </div>
   <div class="breadcrumb js-zeroclipboard-target">
-    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/jhu-ep-coursera/fullstack-course4"><span>fullstack-course4</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/jhu-ep-coursera/fullstack-course4/tree/master/Assignments"><span>Assignments</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/jhu-ep-coursera/fullstack-course4/tree/master/Assignments/version2"><span>version2</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/jhu-ep-coursera/fullstack-course4/tree/master/Assignments/version2/module4-solution-starter"><span>module4-solution-starter</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/jhu-ep-coursera/fullstack-course4/tree/master/Assignments/version2/module4-solution-starter/easier"><span>easier</span></a></span><span class="separator">/</span><strong class="final-path">index.html</strong>
+    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/jhu-ep-coursera/fullstack-course4"><span>fullstack-course4</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/jhu-ep-coursera/fullstack-course4/tree/master/Assignments"><span>Assignments</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/jhu-ep-coursera/fullstack-course4/tree/master/Assignments/version2"><span>version2</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/jhu-ep-coursera/fullstack-course4/tree/master/Assignments/version2/module4-solution-starter"><span>module4-solution-starter</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/jhu-ep-coursera/fullstack-course4/tree/master/Assignments/version2/module4-solution-starter/easier"><span>easier</span></a></span><span class="separator">/</span><strong class="final-path">script.js</strong>
   </div>
 </div>
 
-<include-fragment class="commit-tease" src="/jhu-ep-coursera/fullstack-course4/contributors/master/Assignments/version2/module4-solution-starter/easier/index.html">
-  <div>
-    Fetching contributors&hellip;
+
+  <div class="commit-tease">
+      <span class="right">
+        <a class="commit-tease-sha" href="/jhu-ep-coursera/fullstack-course4/commit/c98e617afa824c1571f17132a9565ee13c679ec4" data-pjax>
+          c98e617
+        </a>
+        <relative-time datetime="2016-03-30T01:45:35Z">Mar 29, 2016</relative-time>
+      </span>
+      <div>
+        <img alt="@ychaikin" class="avatar" height="20" src="https://avatars0.githubusercontent.com/u/4999744?v=3&amp;s=40" width="20" />
+        <a href="/ychaikin" class="user-mention" rel="contributor">ychaikin</a>
+          <a href="/jhu-ep-coursera/fullstack-course4/commit/c98e617afa824c1571f17132a9565ee13c679ec4" class="message" data-pjax="true" title="Added more comments and READMEs for the assignments starter code for the version 2 of the course.">Added more comments and READMEs for the assignments starter code for …</a>
+      </div>
+
+    <div class="commit-tease-contributors">
+      <button type="button" class="btn-link muted-link contributors-toggle" data-facebox="#blob_contributors_box">
+        <strong>1</strong>
+         contributor
+      </button>
+      
+    </div>
+
+    <div id="blob_contributors_box" style="display:none">
+      <h2 class="facebox-header" data-facebox-id="facebox-header">Users who have contributed to this file</h2>
+      <ul class="facebox-user-list" data-facebox-id="facebox-description">
+          <li class="facebox-user-list-item">
+            <img alt="@ychaikin" height="24" src="https://avatars2.githubusercontent.com/u/4999744?v=3&amp;s=48" width="24" />
+            <a href="/ychaikin">ychaikin</a>
+          </li>
+      </ul>
+    </div>
   </div>
 
-  <div class="commit-tease-contributors">
-    <img alt="" class="loader-loading left" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" />
-    <span class="loader-error">Cannot retrieve contributors at this time</span>
-  </div>
-</include-fragment>
 <div class="file">
   <div class="file-header">
   <div class="file-actions">
 
     <div class="btn-group">
-      <a href="/jhu-ep-coursera/fullstack-course4/raw/master/Assignments/version2/module4-solution-starter/easier/index.html" class="btn btn-sm " id="raw-url">Raw</a>
-        <a href="/jhu-ep-coursera/fullstack-course4/blame/master/Assignments/version2/module4-solution-starter/easier/index.html" class="btn btn-sm js-update-url-with-hash">Blame</a>
-      <a href="/jhu-ep-coursera/fullstack-course4/commits/master/Assignments/version2/module4-solution-starter/easier/index.html" class="btn btn-sm " rel="nofollow">History</a>
+      <a href="/jhu-ep-coursera/fullstack-course4/raw/master/Assignments/version2/module4-solution-starter/easier/script.js" class="btn btn-sm " id="raw-url">Raw</a>
+        <a href="/jhu-ep-coursera/fullstack-course4/blame/master/Assignments/version2/module4-solution-starter/easier/script.js" class="btn btn-sm js-update-url-with-hash">Blame</a>
+      <a href="/jhu-ep-coursera/fullstack-course4/commits/master/Assignments/version2/module4-solution-starter/easier/script.js" class="btn btn-sm " rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
-           href="github-windows://openRepo/https://github.com/jhu-ep-coursera/fullstack-course4?branch=master&amp;filepath=Assignments%2Fversion2%2Fmodule4-solution-starter%2Feasier%2Findex.html"
+           href="github-windows://openRepo/https://github.com/jhu-ep-coursera/fullstack-course4?branch=master&amp;filepath=Assignments%2Fversion2%2Fmodule4-solution-starter%2Feasier%2Fscript.js"
            aria-label="Open this file in GitHub Desktop"
            data-ga-click="Repository, open with desktop, type:windows">
             <svg aria-hidden="true" class="octicon octicon-device-desktop" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M15 2H1c-0.55 0-1 0.45-1 1v9c0 0.55 0.45 1 1 1h5.34c-0.25 0.61-0.86 1.39-2.34 2h8c-1.48-0.61-2.09-1.39-2.34-2h5.34c0.55 0 1-0.45 1-1V3c0-0.55-0.45-1-1-1z m0 9H1V3h14v8z"></path></svg>
         </a>
 
-        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/jhu-ep-coursera/fullstack-course4/edit/master/Assignments/version2/module4-solution-starter/easier/index.html" class="inline-form js-update-url-with-hash" data-form-nonce="073d1366e1cd44136f5464aa6ad29b700a8872d5" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="W6JUo4zL5Q+qG4mBUf7HcyT6Y1KYGXmAv0DIyFj78yiTK5zinbSCQsjNgbOMbS3bxxKF3EtLAhDTKdiuZwcrbA==" /></div>
+        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/jhu-ep-coursera/fullstack-course4/edit/master/Assignments/version2/module4-solution-starter/easier/script.js" class="inline-form js-update-url-with-hash" data-form-nonce="073d1366e1cd44136f5464aa6ad29b700a8872d5" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="4dr99IuonoK7BMSo1ZywmmxtqE9Yl8SDn+cRQCH1EAcUsXpI5udq/gSLzh1hliP0T2WfRYaQjnOhU674734v+g==" /></div>
           <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M0 12v3h3l8-8-3-3L0 12z m3 2H1V12h1v1h1v1z m10.3-9.3l-1.3 1.3-3-3 1.3-1.3c0.39-0.39 1.02-0.39 1.41 0l1.59 1.59c0.39 0.39 0.39 1.02 0 1.41z"></path></svg>
           </button>
-</form>        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/jhu-ep-coursera/fullstack-course4/delete/master/Assignments/version2/module4-solution-starter/easier/index.html" class="inline-form" data-form-nonce="073d1366e1cd44136f5464aa6ad29b700a8872d5" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="OR7uUWZkAX3q1TF1A9vm1gQjqq+/mKWUXgbxXP130jxGP1ktgzXXLaWNV5P4VvXlmGg5mQ8yJIBsQCbw20neuw==" /></div>
+</form>        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/jhu-ep-coursera/fullstack-course4/delete/master/Assignments/version2/module4-solution-starter/easier/script.js" class="inline-form" data-form-nonce="073d1366e1cd44136f5464aa6ad29b700a8872d5" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="NiCwzjFUZr8kTOogsi9ec5ou9DnEmRrvbQh1NpVlRF8ZNMXdAdMLgGLXDVjMVdWhGjg+KrEVYOZRsJRVMYDmpg==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path d="M10 2H8c0-0.55-0.45-1-1-1H4c-0.55 0-1 0.45-1 1H1c-0.55 0-1 0.45-1 1v1c0 0.55 0.45 1 1 1v9c0 0.55 0.45 1 1 1h7c0.55 0 1-0.45 1-1V5c0.55 0 1-0.45 1-1v-1c0-0.55-0.45-1-1-1z m-1 12H2V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9z m1-10H1v-1h9v1z"></path></svg>
@@ -594,67 +617,293 @@
 </form>  </div>
 
   <div class="file-info">
-      14 lines (13 sloc)
+      69 lines (60 sloc)
       <span class="file-info-divider"></span>
-    284 Bytes
+    2.31 KB
   </div>
 </div>
 
   
 
-  <div itemprop="text" class="blob-wrapper data type-html">
+  <div itemprop="text" class="blob-wrapper data type-javascript">
       <table class="highlight tab-size js-file-line-container" data-tab-size="8">
       <tr>
         <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
-        <td id="LC1" class="blob-code blob-code-inner js-file-line">&lt;!DOCTYPE html&gt;</td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// ******************************* </span></td>
       </tr>
       <tr>
         <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
-        <td id="LC2" class="blob-code blob-code-inner js-file-line">&lt;<span class="pl-ent">html</span>&gt;</td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// START HERE IF YOU WANT AN EASIER STARTING POINT FOR THIS ASSIGNMENT</span></td>
       </tr>
       <tr>
         <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
-        <td id="LC3" class="blob-code blob-code-inner js-file-line">&lt;<span class="pl-ent">head</span>&gt;</td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// *******************************</span></td>
       </tr>
       <tr>
         <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
-        <td id="LC4" class="blob-code blob-code-inner js-file-line">  &lt;<span class="pl-ent">meta</span> <span class="pl-e">charset</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>utf-8<span class="pl-pds">&quot;</span></span>&gt;</td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c">//</span></td>
       </tr>
       <tr>
         <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
-        <td id="LC5" class="blob-code blob-code-inner js-file-line">  &lt;<span class="pl-ent">title</span>&gt;Module 4 Solution Starter&lt;/<span class="pl-ent">title</span>&gt;</td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// Module 4 Assignment Instructions.</span></td>
       </tr>
       <tr>
         <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
-        <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">  &lt;<span class="pl-ent">script</span> <span class="pl-e">src</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>SpeakHello.js<span class="pl-pds">&quot;</span></span>&gt;&lt;/<span class="pl-ent">script</span>&gt;</span></td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-c">//</span></td>
       </tr>
       <tr>
         <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
-        <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">  &lt;<span class="pl-ent">script</span> <span class="pl-e">src</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>SpeakGoodBye.js<span class="pl-pds">&quot;</span></span>&gt;&lt;/<span class="pl-ent">script</span>&gt;</span></td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// The idea of this assignment is to take an existing array of names</span></td>
       </tr>
       <tr>
         <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
-        <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">  &lt;<span class="pl-ent">script</span> <span class="pl-e">src</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>script.js<span class="pl-pds">&quot;</span></span>&gt;&lt;/<span class="pl-ent">script</span>&gt;</span></td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// and then output either Hello &#39;Name&#39; or Good Bye &#39;Name&#39; to the console.</span></td>
       </tr>
       <tr>
         <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
-        <td id="LC9" class="blob-code blob-code-inner js-file-line">&lt;/<span class="pl-ent">head</span>&gt;</td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// The program should say &quot;Hello&quot; to any name except names that start with a &quot;J&quot;</span></td>
       </tr>
       <tr>
         <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
-        <td id="LC10" class="blob-code blob-code-inner js-file-line">&lt;<span class="pl-ent">body</span>&gt;</td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// or &quot;j&quot;, otherwise, the program should say &quot;Good Bye&quot;. So, the final output</span></td>
       </tr>
       <tr>
         <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
-        <td id="LC11" class="blob-code blob-code-inner js-file-line">  &lt;<span class="pl-ent">h1</span>&gt;Module 4 Solution Starter&lt;/<span class="pl-ent">h1</span>&gt;</td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// on the console should look like this:</span></td>
       </tr>
       <tr>
         <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
-        <td id="LC12" class="blob-code blob-code-inner js-file-line">&lt;/<span class="pl-ent">body</span>&gt;</td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class="pl-c">/*</span></td>
       </tr>
       <tr>
         <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
-        <td id="LC13" class="blob-code blob-code-inner js-file-line">&lt;/<span class="pl-ent">html</span>&gt;</td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-c">Hello Yaakov</span></td>
+      </tr>
+      <tr>
+        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class="pl-c">Good Bye John</span></td>
+      </tr>
+      <tr>
+        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line"><span class="pl-c">Good Bye Jen</span></td>
+      </tr>
+      <tr>
+        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class="pl-c">Good Bye Jason</span></td>
+      </tr>
+      <tr>
+        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class="pl-c">Hello Paul</span></td>
+      </tr>
+      <tr>
+        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class="pl-c">Hello Frank</span></td>
+      </tr>
+      <tr>
+        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class="pl-c">Hello Larry</span></td>
+      </tr>
+      <tr>
+        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class="pl-c">Hello Paula</span></td>
+      </tr>
+      <tr>
+        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
+        <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class="pl-c">Hello Laura</span></td>
+      </tr>
+      <tr>
+        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class="pl-c">Good Bye Jim</span></td>
+      </tr>
+      <tr>
+        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
+        <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class="pl-c"></span></td>
+      </tr>
+      <tr>
+        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
+        <td id="LC24" class="blob-code blob-code-inner js-file-line"><span class="pl-c">WARNING!!! WARNING!!!</span></td>
+      </tr>
+      <tr>
+        <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
+        <td id="LC25" class="blob-code blob-code-inner js-file-line"><span class="pl-c">The code does NOT currently work! It is YOUR job to make it work</span></td>
+      </tr>
+      <tr>
+        <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
+        <td id="LC26" class="blob-code blob-code-inner js-file-line"><span class="pl-c">as described in the requirements and the steps in order to complete this</span></td>
+      </tr>
+      <tr>
+        <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
+        <td id="LC27" class="blob-code blob-code-inner js-file-line"><span class="pl-c">assignment.</span></td>
+      </tr>
+      <tr>
+        <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
+        <td id="LC28" class="blob-code blob-code-inner js-file-line"><span class="pl-c">WARNING!!! WARNING!!!</span></td>
+      </tr>
+      <tr>
+        <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
+        <td id="LC29" class="blob-code blob-code-inner js-file-line"><span class="pl-c"></span></td>
+      </tr>
+      <tr>
+        <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
+        <td id="LC30" class="blob-code blob-code-inner js-file-line"><span class="pl-c">*/</span></td>
+      </tr>
+      <tr>
+        <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
+        <td id="LC31" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
+        <td id="LC32" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// STEP 1: (NOTHING TO DO. ALREADY DONE FOR YOU)</span></td>
+      </tr>
+      <tr>
+        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
+        <td id="LC33" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// Wrap the entire contents of script.js inside of an IIFE</span></td>
+      </tr>
+      <tr>
+        <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
+        <td id="LC34" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// See Lecture 52, part 2</span></td>
+      </tr>
+      <tr>
+        <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
+        <td id="LC35" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// (Note, Step 2 will be done in the SpeakHello.js file.)</span></td>
+      </tr>
+      <tr>
+        <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
+        <td id="LC36" class="blob-code blob-code-inner js-file-line">(<span class="pl-k">function</span> () {</td>
+      </tr>
+      <tr>
+        <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
+        <td id="LC37" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
+        <td id="LC38" class="blob-code blob-code-inner js-file-line"><span class="pl-k">var</span> names <span class="pl-k">=</span> [<span class="pl-s"><span class="pl-pds">&quot;</span>Yaakov<span class="pl-pds">&quot;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span>John<span class="pl-pds">&quot;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span>Jen<span class="pl-pds">&quot;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span>Jason<span class="pl-pds">&quot;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span>Paul<span class="pl-pds">&quot;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span>Frank<span class="pl-pds">&quot;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span>Larry<span class="pl-pds">&quot;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span>Paula<span class="pl-pds">&quot;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span>Laura<span class="pl-pds">&quot;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span>Jim<span class="pl-pds">&quot;</span></span>];</td>
+      </tr>
+      <tr>
+        <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
+        <td id="LC39" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
+        <td id="LC40" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// STEP 10: (NOTHING TO DO. ALREADY DONE FOR YOU)</span></td>
+      </tr>
+      <tr>
+        <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
+        <td id="LC41" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// Loop over the names array and say either &#39;Hello&#39; or &quot;Good Bye&quot;</span></td>
+      </tr>
+      <tr>
+        <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
+        <td id="LC42" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// using the &#39;speak&#39; method or either helloSpeaker&#39;s or byeSpeaker&#39;s</span></td>
+      </tr>
+      <tr>
+        <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
+        <td id="LC43" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// &#39;speak&#39; method.</span></td>
+      </tr>
+      <tr>
+        <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
+        <td id="LC44" class="blob-code blob-code-inner js-file-line"><span class="pl-c">// See Lecture 50, part 1</span></td>
+      </tr>
+      <tr>
+        <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
+        <td id="LC45" class="blob-code blob-code-inner js-file-line"><span class="pl-k">for</span> (<span class="pl-k">var</span> i <span class="pl-k">=</span> <span class="pl-c1">0</span>; i <span class="pl-k">&lt;</span> <span class="pl-smi">names</span>.<span class="pl-c1">length</span>; i<span class="pl-k">++</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
+        <td id="LC46" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
+        <td id="LC47" class="blob-code blob-code-inner js-file-line">  <span class="pl-c">// STEP 11: (NOTHING TO DO. ALREADY DONE FOR YOU)</span></td>
+      </tr>
+      <tr>
+        <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
+        <td id="LC48" class="blob-code blob-code-inner js-file-line">  <span class="pl-c">// Retrieve the first letter of the current name in the loop.</span></td>
+      </tr>
+      <tr>
+        <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
+        <td id="LC49" class="blob-code blob-code-inner js-file-line">  <span class="pl-c">// Use the string object&#39;s &#39;charAt&#39; function. Since we are looking for</span></td>
+      </tr>
+      <tr>
+        <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
+        <td id="LC50" class="blob-code blob-code-inner js-file-line">  <span class="pl-c">// names that start with either upper case or lower case &#39;J&#39;/&#39;j&#39;, call</span></td>
+      </tr>
+      <tr>
+        <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
+        <td id="LC51" class="blob-code blob-code-inner js-file-line">  <span class="pl-c">// string object&#39;s &#39;toLowerCase&#39; method on the result so we can compare</span></td>
+      </tr>
+      <tr>
+        <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
+        <td id="LC52" class="blob-code blob-code-inner js-file-line">  <span class="pl-c">// to lower case character &#39;j&#39; afterwards.</span></td>
+      </tr>
+      <tr>
+        <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
+        <td id="LC53" class="blob-code blob-code-inner js-file-line">  <span class="pl-c">// Look up these methods on Mozilla Developer Network web site if needed.</span></td>
+      </tr>
+      <tr>
+        <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
+        <td id="LC54" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">var</span> firstLetter <span class="pl-k">=</span> names[i].<span class="pl-c1">charAt</span>(<span class="pl-c1">0</span>).<span class="pl-c1">toLowerCase</span>();</td>
+      </tr>
+      <tr>
+        <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
+        <td id="LC55" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L56" class="blob-num js-line-number" data-line-number="56"></td>
+        <td id="LC56" class="blob-code blob-code-inner js-file-line">  <span class="pl-c">// STEP 12: (NOTHING TO DO. ALREADY DONE FOR YOU)</span></td>
+      </tr>
+      <tr>
+        <td id="L57" class="blob-num js-line-number" data-line-number="57"></td>
+        <td id="LC57" class="blob-code blob-code-inner js-file-line">  <span class="pl-c">// Compare the &#39;firstLetter&#39; retrieved in STEP 11 to lower case</span></td>
+      </tr>
+      <tr>
+        <td id="L58" class="blob-num js-line-number" data-line-number="58"></td>
+        <td id="LC58" class="blob-code blob-code-inner js-file-line">  <span class="pl-c">// &#39;j&#39;. If the same, call byeSpeaker&#39;s &#39;speak&#39; method with the current name</span></td>
+      </tr>
+      <tr>
+        <td id="L59" class="blob-num js-line-number" data-line-number="59"></td>
+        <td id="LC59" class="blob-code blob-code-inner js-file-line">  <span class="pl-c">// in the loop. Otherwise, call helloSpeaker&#39;s &#39;speak&#39; method with the current</span></td>
+      </tr>
+      <tr>
+        <td id="L60" class="blob-num js-line-number" data-line-number="60"></td>
+        <td id="LC60" class="blob-code blob-code-inner js-file-line">  <span class="pl-c">// name in the loop.</span></td>
+      </tr>
+      <tr>
+        <td id="L61" class="blob-num js-line-number" data-line-number="61"></td>
+        <td id="LC61" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">if</span> (firstLetter <span class="pl-k">===</span> <span class="pl-s"><span class="pl-pds">&#39;</span>j<span class="pl-pds">&#39;</span></span>) {</td>
+      </tr>
+      <tr>
+        <td id="L62" class="blob-num js-line-number" data-line-number="62"></td>
+        <td id="LC62" class="blob-code blob-code-inner js-file-line">    <span class="pl-smi">byeSpeaker</span>.<span class="pl-en">speak</span>(names[i]);</td>
+      </tr>
+      <tr>
+        <td id="L63" class="blob-num js-line-number" data-line-number="63"></td>
+        <td id="LC63" class="blob-code blob-code-inner js-file-line">  } <span class="pl-k">else</span> {</td>
+      </tr>
+      <tr>
+        <td id="L64" class="blob-num js-line-number" data-line-number="64"></td>
+        <td id="LC64" class="blob-code blob-code-inner js-file-line">    <span class="pl-smi">helloSpeaker</span>.<span class="pl-en">speak</span>(names[i]);</td>
+      </tr>
+      <tr>
+        <td id="L65" class="blob-num js-line-number" data-line-number="65"></td>
+        <td id="LC65" class="blob-code blob-code-inner js-file-line">  }</td>
+      </tr>
+      <tr>
+        <td id="L66" class="blob-num js-line-number" data-line-number="66"></td>
+        <td id="LC66" class="blob-code blob-code-inner js-file-line">}</td>
+      </tr>
+      <tr>
+        <td id="L67" class="blob-num js-line-number" data-line-number="67"></td>
+        <td id="LC67" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L68" class="blob-num js-line-number" data-line-number="68"></td>
+        <td id="LC68" class="blob-code blob-code-inner js-file-line">})();</td>
       </tr>
 </table>
 
@@ -695,7 +944,7 @@
       <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" version="1.1" viewBox="0 0 16 16" width="24"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59 0.4 0.07 0.55-0.17 0.55-0.38 0-0.19-0.01-0.82-0.01-1.49-2.01 0.37-2.53-0.49-2.69-0.94-0.09-0.23-0.48-0.94-0.82-1.13-0.28-0.15-0.68-0.52-0.01-0.53 0.63-0.01 1.08 0.58 1.23 0.82 0.72 1.21 1.87 0.87 2.33 0.66 0.07-0.52 0.28-0.87 0.51-1.07-1.78-0.2-3.64-0.89-3.64-3.95 0-0.87 0.31-1.59 0.82-2.15-0.08-0.2-0.36-1.02 0.08-2.12 0 0 0.67-0.21 2.2 0.82 0.64-0.18 1.32-0.27 2-0.27 0.68 0 1.36 0.09 2 0.27 1.53-1.04 2.2-0.82 2.2-0.82 0.44 1.1 0.16 1.92 0.08 2.12 0.51 0.56 0.82 1.27 0.82 2.15 0 3.07-1.87 3.75-3.65 3.95 0.29 0.25 0.54 0.73 0.54 1.48 0 1.07-0.01 1.93-0.01 2.2 0 0.21 0.15 0.46 0.55 0.38C13.71 14.53 16 11.53 16 8 16 3.58 12.42 0 8 0z"></path></svg>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2016 <span title="0.21069s from github-fe131-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2016 <span title="0.10058s from github-fe145-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
